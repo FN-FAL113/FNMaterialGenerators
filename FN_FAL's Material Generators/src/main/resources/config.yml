@@ -1,0 +1,26 @@
+# This is where you can configure tick rates for each generator
+# This is a custom addon for slimefun by FN_FAL113 based on SMG addon by waleks
+
+# Rate for Clay Generator
+FN_CLAY-TickRate: 32
+
+# Rate for Warp Nylium Generator
+FN_WARPED_NYLIUM-TickRate: 48
+
+# Rate for Terracotta Generator
+FN_TERRACOTTA-TickRate: 84
+
+# Rate for Bone Generator
+FN_BONE-TickRate: 256
+
+# Rate for Diamond Generator
+FN_DIAMOND-TickRate: 192
+
+# Rate for Emerald Generator
+FN_EMERALD-TickRate: 218
+
+# Rate for Dirt Generator
+FN_Dirt-TickRate: 36
+
+# Rate for Honey Comb Generator
+FN_HONEYCOMB-TickRate: 52

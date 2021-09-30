@@ -1,0 +1,10 @@
+name: FNFALsMaterialGenerators
+version: ${project.version}
+main: me.fnfal113.fn_falsmaterialgenerators.FN_FALsMaterialGenerators
+api-version: 1.17
+authors: [ FN_FAL113 ]
+description: A Custom addon for slimefun based on the SMG addon by waleks
+website: https://github.com/FN-FAL113
+depend:
+  - Slimefun
+softdepend: [SimpleMaterialGenerators]
