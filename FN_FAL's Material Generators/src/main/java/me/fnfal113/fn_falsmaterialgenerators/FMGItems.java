@@ -104,8 +104,8 @@ public final class FMGItems {
     public static final SlimefunItemStack FMG_GENERATOR_FNFAL_HONEYCOMB = new SlimefunItemStack(
             "FMG_GENERATOR_FNFAL_HONEYCOMB",
             Material.HONEYCOMB_BLOCK,
-            "&6FN_FAL's Dirt Generator",
-            "&6Generates Dirt at a certain rate",
+            "&6FN_FAL's Honey Comb Generator",
+            "&6Generates Honey Comb at a certain rate",
             "",
             "&5&oFN_Fal's Material Generators"
     );
