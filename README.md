@@ -11,4 +11,5 @@ Addon is currently used in BarangayCraft Pinoy Server
 ![cfg](https://user-images.githubusercontent.com/88238718/135385265-e32c2eb0-b593-4d5f-abe1-11d92b2a333a.png)
 
 Huge Thanks to Slimefun and waleks for making their work open-source and free to use
+
 Credits to Waleks for his SMG addon
